@@ -1,0 +1,23 @@
+body {
+    background-color: #eeff00;
+    font-family: tiny5;
+    margin: 0;
+    padding: 0;
+    background-image: url("bee.png");
+}
+p {
+    color: rgb(235, 178, 57);
+}
+.top-bar {
+    background-color: #ecee98;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+::-webkit-scrollbar {
+    width: 10px;
+    color: #eeff00;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #eeff00;
+}
